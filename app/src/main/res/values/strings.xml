@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="list_nama">
+        <item>Boy Sitorus</item>
+        <item>Rafael Manurung</item>
+        <item>Boy Sitorus</item>
+        <item>Rafael Manurung</item>
+        <item>Boy Sitorus</item>
+        <item>Rafael Manurung</item>
+        <item>Boy Sitorus</item>
+        <item>Rafael Manurung</item>
+        <item>Boy Sitorus</item>
+        <item>Rafael Manurung</item>
+    </string-array>
+
+    <string-array name="list_last_chat">
+        <item>Doain jebol google guys</item>
+        <item>Laptop baruu, Alhamdulillah</item>
+        <item>Doain jebol google guys</item>
+        <item>Laptop baruu, Alhamdulillah</item>
+        <item>Doain jebol google guys</item>
+        <item>Laptop baruu, Alhamdulillah</item>
+        <item>Doain jebol google guys</item>
+        <item>Laptop baruu, Alhamdulillah</item>
+        <item>Doain jebol google guys</item>
+        <item>Laptop baruu, Alhamdulillah</item>
+    </string-array>
+
+    <string-array name="list_last_time">
+        <item>Yesterday</item>
+        <item>28/03/24</item>
+        <item>Yesterday</item>
+        <item>28/03/24</item>
+        <item>Yesterday</item>
+        <item>28/03/24</item>
+        <item>Yesterday</item>
+        <item>28/03/24</item>
+        <item>Yesterday</item>
+        <item>28/03/24</item>
+    </string-array>
+
+    <string-array name="list_profile_picture">
+        <item>@drawable/img_boy</item>
+        <item>@drawable/img_rafael</item>
+        <item>@drawable/img_boy</item>
+        <item>@drawable/img_rafael</item>
+        <item>@drawable/img_boy</item>
+        <item>@drawable/img_rafael</item>
+        <item>@drawable/img_boy</item>
+        <item>@drawable/img_rafael</item>
+        <item>@drawable/img_boy</item>
+        <item>@drawable/img_rafael</item>
+    </string-array>
+</resources>
